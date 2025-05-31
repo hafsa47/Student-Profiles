@@ -146,6 +146,7 @@ Got ideas to improve the project? Fork the repo, make changes, and submit a pull
 ## 📬 Contact
 
 **Maintainer**: hafsasudheer92@gmail.com
+
 Reach out for questions, feedback, or just to say hi! 👋
 
 ---
