@@ -6,7 +6,7 @@ A user-friendly **JavaFX** application for managing student registrations, recor
 
 ## 🛠️ Tools & Technologies Used
 
-![Java](https://img.shields.io/badge/Java-21-blue?style=flat-square)
+![Java](https://img.shields.io/badge/Java-24-blue?style=flat-square)
 ![JavaFX](https://img.shields.io/badge/JavaFX-24.0.1-green?style=flat-square)
 ![VS Code](https://img.shields.io/badge/VS_Code-IDE-blue?style=flat-square)
 ![GitHub](https://img.shields.io/badge/GitHub-Version_Control-yellow?style=flat-square)
