@@ -27,6 +27,7 @@ STUDENT_REGISTRATION/
 │       └── StudentSystemFX.class
 ├── src/
 │   └── StudentSystemFX.java
+├── Performance_Video.mp4
 ├── cmd.txt
 └── README.md
 ```
