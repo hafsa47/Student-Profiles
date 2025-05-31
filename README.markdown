@@ -67,7 +67,7 @@ Follow these steps to get the project up and running on your machine! 🖥️
 ### 3️⃣ Clone the Repository
 - Clone this project to your local machine:
   ```bash
-  git clone https://github.com/yourusername/STUDENT_REGISTRATION.git
+  git clone https://github.com/hafsa47/Student-Profiles.git
   cd STUDENT_REGISTRATION
   ```
 
