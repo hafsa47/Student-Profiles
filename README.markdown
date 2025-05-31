@@ -52,8 +52,8 @@ This **JavaFX-based** application simplifies student management with the followi
 
 Follow these steps to get the project up and running on your machine! 🖥️
 
-### 1️⃣ Install Java 21
-- Download and install **Java JDK 21** from [Oracle's official site](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
+### 1️⃣ Install Java 24
+- Download and install **Java JDK 24** from [Oracle's official site](https://www.oracle.com/java/technologies/javase/jdk21-archive-downloads.html).
 - Verify installation:
   ```bash
   java -version
